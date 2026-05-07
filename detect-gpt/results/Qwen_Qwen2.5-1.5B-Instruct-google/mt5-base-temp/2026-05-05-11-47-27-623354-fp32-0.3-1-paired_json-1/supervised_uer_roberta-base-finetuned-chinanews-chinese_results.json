@@ -1,0 +1,1 @@
+{"name": "uer/roberta-base-finetuned-chinanews-chinese", "predictions": {"real": [0.2772514820098877], "samples": [0.2772514820098877]}, "info": {"n_samples": 1}, "metrics": {"roc_auc": 0.5, "fpr": [0.0, 1.0], "tpr": [0.0, 1.0]}, "pr_metrics": {"pr_auc": 0.75, "precision": [0.5, 1.0], "recall": [1.0, 0.0]}, "loss": 0.25}

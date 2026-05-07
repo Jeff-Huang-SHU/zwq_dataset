@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# local / temp runs (取消注释若你希望把 results 也排除)
+tmp_results/
