@@ -1,0 +1,22 @@
+{
+  "input": "/home/hjf/A_workspace/detect-gpt/results/deepseek-v3.2/Qwen_Qwen2.5-1.5B-Instruct-google/mt5-base-temp/2026-05-11-15-41-10-050459-fp32-0.15-1-paired_json-512/perturbation_10_z_results.json",
+  "n_real": 495,
+  "n_samples": 495,
+  "n_total": 990,
+  "n_pairs": 495,
+  "threshold_mode": "best_f1",
+  "score_flipped": true,
+  "threshold": -8.261967493636874,
+  "accuracy": 0.5282828282828282,
+  "precision": 0.5151187904967602,
+  "recall": 0.9636363636363636,
+  "f1": 0.6713581984517946,
+  "roc_auc": 0.5231751862054893,
+  "pr_auc": 0.5227596952885909,
+  "tn": 46,
+  "fp": 449,
+  "fn": 18,
+  "tp": 477,
+  "json_roc_auc": 0.47682481379451075,
+  "json_pr_auc": 0.4616547518033814
+}

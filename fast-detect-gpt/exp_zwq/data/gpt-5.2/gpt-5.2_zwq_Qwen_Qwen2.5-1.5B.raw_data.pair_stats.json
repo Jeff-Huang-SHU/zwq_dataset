@@ -1,0 +1,5020 @@
+[
+  {
+    "register": "science",
+    "tittle": "半导体上转换单光子探测技术研究进展",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "路遥小说的超越性境界及其文学史意义",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "考虑晶粒分布的多晶体材料超声散射统一理论",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "法域冲突的排除_立场、 规则与适用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "中国式影子银行的风险溯源与监管创新",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "过程性审查：行政行为司法审查方法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“ 思无邪” 作为《诗经》 学 话语及其意义转换",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "图像与灵魂运动 — ——论柏拉图对话中的 “图像”",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "当代文学的接续与更新 — ——基于《中国文学艺术工作者第四次代表大会简报》 的文学史考察",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "草原丝绸之路上的唐诗写作",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "认罪认罚从宽制度立法化的重点问题研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "从 “学诗” 到 “诗学” — ——中国古代诗学的学理转换与特色生成",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于螺旋相位调制的非相干全息点扩散函数研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论民事诉讼文书样式实例评注研究的 引领功用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种支持所有权认证的客户端图像模糊去重方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "字源谬见、诗史之辨与一桩学术公案 — ——论钱锺书对闻一多《 歌与诗》 的批评",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "线下交互的动态社交网络研究进展： 挑战与展望",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "夫妻团体债务的认定及清偿",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "利用超导量子电路模拟拓扑量子材料",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "Cr二维单层薄片中Jahn-Teller效应的第一性原理研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "场方法的改进及其在积分Riemann-Cartan空间运动方程中的应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "自由诗的 “ 韵律” 如何成为可能_ — — —论哈特曼的韵律理论兼谈中国新诗的韵律问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "湍流热对流Prandtl数效应的数值研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "国家治理体系视角下党内法规研究 的基础概念辨析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "海洋湍流中光波特征参量和短期光束扩展的研究∗",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“边地” 作为方法与问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文字和文学中的具象与思想 ———艺术视野下的文字与图像关系研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "饶宗颐的中国文学研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "局部差异正则化的边界判别投影",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 1,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "证据链与结构主义",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "支持操作意图一致性的实时协同编辑算法综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "楚辞的文体视阈与礼乐仪式",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于神光III原型装置开展的激光直接驱动准等熵压缩研究进展",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "金刚石氮空位色心耦合机械振子和腔场系统中方差压缩研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "国家文化义务履行的合宪性审查机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "冷原子系综中两正交光场偏振模高效率存储的实验研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "微博网络地域Ｔｏ ｐ － ｋ突发事件检测",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "论元代雅集品题的内涵特质 ———以作为雅集物证的书画原迹为中心",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "习近平全球治理与国际法治思想研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "知识与权力_ 关于《 汉书》 文本形成的几个问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "中国宪法的环境观及其规范表达",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "多维温度场对光纤环Shupe效应误差影响的 理论分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": " 4e− 电子化合物的制备及其电输运特性",
+    "human_count": 1,
+    "ai_count": 0,
+    "paired_count": 0,
+    "status": "skipped"
+  },
+  {
+    "register": "humanities",
+    "tittle": "感觉的象征世界 ——— 《 檀香刑》 之后的莫言小说",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向神威· 太湖之光的国产异构众核处理器ＯｐｅｎＣＬ编译系统",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "类声子晶体结构对超声塑料焊接工具横向振动的抑制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "拖曳体激发内波时空特性实验及其理论模型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "奇异谱分析用于提升双光梳激光测距精度",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于因子分解机的质量感知Ｗｅｂ服务推荐方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "破产程序中的税法问题研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "“ 诉讼爆炸” 的中国应对_基于W 区法院近三十年审判实践的实证分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "王世贞与吴中文坛之离合",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "纳米尺度下气泡核化生长的分子动力学研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种基于重叠位图的路由查找算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "政府规制中的信用工具研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论刑法的网络空间效力",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "深度强化学习综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "传统人际关系的现代演绎 — ——评“ 玉米三部曲” 兼论毕飞宇中短篇小说的叙事策略",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "相对论多组态相互作用方法计算Mg+ 离子同位素位移",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于主题和大众影响的用户动态行为倾向预测",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种新的基于局部搜索的扩展规则推理方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 1,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "形式与实质之争_税法视域的检讨",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "对象保全中的“时—空” 语法与 文艺理论话语体系建构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于需求功能语义的服务聚类方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "自由之病_ 伊格尔顿的悲剧观念",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "漫反射立方腔单次反射平均光程的 理论和实验研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "中国早期文学文本的对话_ 《诗》 赋互文关系诠解",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "行政违法行为被犯罪化处理的程序控制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于蛋清栅介质的超低压双电层薄膜晶体管",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文体备于何时 ———中国古代文体框架确立的途径",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "非线性晶体产生的空心光束中 大尺寸粒子囚禁与导引",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "交互式动态影响图研究及其最优Ｋ 模型解法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "民法典制定中的国家与国库问题研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“ 声” 之探求：鲁迅白话写作的起源",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "微穿孔蜂窝-波纹复合声学超材料吸声行为",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于ＤＦＴ－Ｓ－ＯＦＤＭ传输方式的物理层双矩阵密钥加密算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "Yb浓度对功率依赖的上转换荧光色彩的敏感度调控",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "Cu, O共掺杂AlN晶体电子结构与光学性质研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "比附_ 一种跨文体的文学批评",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种高效安全的去中心化数据共享模型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "行政审批（许可）权力清单建构中的法律问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "再论辩护律师向犯罪嫌疑人、 被告人核实证据",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "中国文学的君子形象与 “君子曰” 的思想话语",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "精神文明的宪法叙事_规范内涵与宪制结构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "左翼文学发生语境下的 鲁迅批判吴稚晖问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "100 keV质子与低高能质子在绝缘微孔中输运特性的对比分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "多模光力系统中的非传统声子阻塞",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "内存实时快照共享机制及其在数据库系统中的应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "言语行为理论、可能世界理论与 文学虚构问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "蛋白质三级结构预测算法综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "高功率宽带射频调制连续激光源",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于角度惩罚距离精英选择策略的偏好高维目标优化算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "从文学叙述看抗战时期乡土社会阶层分化与文化变迁 ———析抗战题材小说的社会史意义",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论网络时代刑法解释的限度",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于网络功能虚拟化的网络试验平台的设计与实现",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "莫言与新文学的整体观",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论地方政府事权的法理基础与宪法结构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "Ｈ ｙ ｂ ｒ ｉＧ ： 一种高效处理大量重边的属性图存储架构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "中能Ne4+ 离子诱导的羰基硫分子三体碎裂动力学分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "国际犯罪管辖和审理的制度建构与完善",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "当代文学学科建构与文学史写作",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "铸造奥氏体不锈钢中铁素体与奥氏体位向关系及其对声衰减的影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "分类不平衡对软件缺陷预测模型性能的影响研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "ＶＡＮＥＴｓ中基于时空分析的抗合谋Ｓ ｙ ｂｉｌ攻击检测方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "刑事庭审实质化的维度与机制探讨",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "单分子尺度的光量子态调控与单分子电致发光研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "通向文化史的现代文本文献学 — ——以鲁迅《 随感录》 《 新青年》 刊本与北新书局 《 热风》 本的校读为例",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "晶面偏角对利用Voigt函数法计算硅单晶本征晶格应变的影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "交通路口监控视频跨视域多目标跟踪的可视化",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "复杂氧化物中电子相分离的量子调控",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "《 承认和执行外国判决公约》 ( 草案) 中知识产权条款研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于Ｍｕ ｌ ｔｉ － Ａ ｇ ｅｎ ｔ的分布式文本聚类模型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于双环混频光电振荡器的可调谐微波频率梳产生",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "利用衍射光栅探测涡旋光束轨道角动量态的研究进展",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "还原 “间距” — — —王国维“ 境界” 说的文化身份辨析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "《中华人民共和国民法总则》 的制定",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论我国引入公司章程防御性条款的制度构造",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "三权分置下农地流转权利体系重构研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "集成测试中的类测试顺序生成技术述评",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "Bi在固液混合相区的冲击参数测量及声速软化特性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种面向软件缺陷预测的可容忍噪声的特征选择框架",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "刑事陪审中法律问题与事实问题的区分",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "低能离子对高温超导YBa2Cu3O7−δ 薄膜的表面改性和机理",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于学习自动机理论与稳定性控制的 自适应移动无线 Ａｄ Ｈｏｃ网络分簇策略",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "高分辨紫外电子轰击互补金属氧化物半导体器件的实验研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "云计算环境下基于随机化的安全防御研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "流数据处理中负载突发感知的弹性资源分配",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "刑事司法应坚持罪责实质评价",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于不同散射机制特征的海杂波时变多普勒谱模型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于单壁碳纳米管调Q锁模低阈值Tm,Ho_LiLuF4 激光器",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "论日常生活诗学的重构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "“聚龙一号”装置磁驱动准等熵压缩实验的一维磁流体力学模拟",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "电磁波在高密度等离子体微柱腔体结构中的 新传输模式",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "环境侵权类型的重构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "ＳＤＲＳ ： 集中与分布控制相结合的 弹性多路径路由机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "软X射线激光背光阴影成像技术的空间分辨研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "InAs_GaAs 量子点1.3 µm单光子发射特性",
+    "human_count": 0,
+    "ai_count": 3,
+    "paired_count": 0,
+    "status": "skipped"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "高校校规_司法适用的正当性与适用原则",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于自准直效应的光子晶体异质结偏振分束器",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "死刑适用的规范论标准",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "添加Ti对Al-Bi难混溶合金组织和性能的影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "我国民事诉讼释明边界问题研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "纳米微结构表面与石墨烯薄膜的界面黏附特性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "ＡｒｋＨｏｎｅｙ：基于协同机制的Ｗｅｂ蜜罐",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于支持向量机的移动Ｗｅｂ浏览性能优化研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "气体自发瑞利-布里渊散射的理论分析及压强反演",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "表演“ 新女性” — ——石评梅的文学书写与文化实践",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "社会组织及其法制化研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“ 重写湘西” 与沈从文40 年代的文学困境 — ——以《芸庐纪事》 为中心的讨论",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "第一性原理研究Zr的掺杂对Xe在UO2 中溶解能力的影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "司法审查图景中行政协议主体的适格",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "我国监察体制改革若干问题思考",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "大数据时代的隐私危机及其侵权法应对",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "求解ＭｉｎＳＡＴ问题的加强式格局检测与子句加权算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "审判委员会制度改革路径实证研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于申威众核处理器的海冰模式并行加速方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "我国电子商务法调整的社会关系范围",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "法律解释方法在指导性案例中的运用及其完善",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "许可链多中心动态共识机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "当代小说语境中古典诗歌的回归与新变 — ——论王安忆《 长恨歌》 与古典诗歌之关系",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "自动驾驶汽车致损的民事侵权责任",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论网络服务商版权内容过滤义务",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "谦抑理念下互联网服务行业 经营者集中救济调适",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "不动产被征收人参与权的价值定位与制度重构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "区分制理论解释共同过失犯罪之弊端及应然选择",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "激光诱导熔石英表面损伤修复中的气泡形成和控制研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "中国“审美经验” 的知识社会学考察 — ——兼论新时代文艺美学的一种转向",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "地方法治竞争范式及其制度约束",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "生产性文学批评的解构性生成 与后现代转折 ———罗兰·巴特批评理论的一条伏脉",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "线性不可逆热力学框架下一个无限尺寸热源而有限尺寸冷源的制冷机的性能分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "质子辐照对永磁合金微观结构演化的研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "超声波电喷推力器羽流中和特性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "检察指导案例效力研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "身份意识与晚期风格 — ——论1985 年之后的张一弓",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "历史困境中的乡绅与佃农 — — — “ 民国” 情境下的 《 一千八百担》",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "冷原子系综内单集体激发态的相干操纵",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“ 介入” 的美学：蒋子龙小说的一种读法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论网络法权构建中的主体性原则",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "回归中国叙事传统的诸种可能 — ——论小说《 山本》 的文化追求",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "对象代理数据库的双向指针存储优化方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "广义Ｉｎｄｅｐｅｎｄｅｎｔ Ｂｉｃｌｉｑｕｅ攻击框架及其应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "涂覆石墨烯的非对称并行电介质纳米线波导的模式特性分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“活记忆” 与 “死记忆” — ——钱锺书记忆研究的中式范例",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "一个新的海边光学湍流外尺度和C2 n 的廓线模式",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "一种减少空间调制快拍成像测偏仪伪信息的方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文学莫言与现实莫言",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "从中日韩 “ 文艺大众化” 论争看 马克思主义文艺理论的本土化",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文学研究的创新仍应以文献 及其解读为基础 ———以李白与科举相关问题为例的分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "磁液变形镜的镜面动力学建模和实验验证",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "宫体诗的 “自赎” 与七言体的 “ 自振” — ——文学史上的《 春江花月夜》",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于随机森林的密码体制分层识别方案",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于分类的微博新情感词抽取方法和特征分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "算法能耗复杂度的定义与推导",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "承包地三权分置的法律表达",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "ＷＭＴＬ－代数中的蕴涵滤子及其应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "颗粒物质内自旋小球运动行为的数值模拟研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "轻量级比特币交易溯源机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "中性和阳离子丁酮团簇的结构及稳定性的理论研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "一时代有一时代之叙事 ———关于中国叙事传统的形成与变革",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "深过冷条件下Co7Mo6 金属间化合物的枝晶生长和维氏硬度研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "区块链技术：架构及进展",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于用户相关性的动态网络媒体数据 无监督特征选择算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "Ｋｅ ｙ － Ｖａ ｌｕｅ型ＮｏＳ Ｑ Ｌ 本地存储系统研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 1,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "移动ｋ － 支配最近邻查询验证研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于模场自积增强检测的光纤声光旋转传感器",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种基于时空相关性的差分隐私轨迹保护机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于滑动窗口的分布式轨迹流聚类",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "战时国家之城的形象建构 ———老舍的重庆想象与民族国家观念",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "保密替换及其在保密科学计算中的应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“九龄风度” 与唐代文学的审美取向",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "清代“ 古文辞禁” 论",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“文” 的自觉与 “士” 的自觉 — ——以《 诗品》 为例",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "史诗性范畴的美学意蕴及精神寻踪",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "郑振铎与战时文献抢救及战后追索",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于突变基因网络的致癌驱动通路检测算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“五四” 叙事的又一种形态 — ——再从文学史书写谈起",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "阿伦特政治思想中的希腊悲剧智慧",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "魏源今文经学影响下的古文新变及其历史意义",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论司法责任制综合配套改革",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论公共企业的法律属性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "民法分则继承编立法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "登记对抗主义的反思与改造_《物权法》第 24 条解析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "恶意串通法律规范的合理性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "中国刑法立法晚近20 年之回眸与前瞻",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "在线社会网络谣言检测综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于高速乱序流的Ｔｏ ｐ－ ｋ连续查询算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论拒不履行信息网络安全管理义务罪",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "唐代小说类例的建构与小说观念的变迁",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "机器学习在网络空间安全研究中的应用６",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文学与人学的变奏 — ——钱谷融 “文学是人学” 观念及其阐释的再阐释",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "“ 枫桥经验” 视野下的基层社会治理 制度供给研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "适于任意深度电路结构的紧致属性基广播加密方案",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "西方马克思主义文学批评中的 意识形态批评探析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "融合评分矩阵与评论文本的商品推荐模型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "保密集合相交问题的高效计算",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "材料二次电子产额对腔体双边二次电子倍增的影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "社交媒体中的谣言识别研究综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "民法分则物权编立法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "郑振铎与文学整体观视域中的民间文学",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于多引导滤波的图像增强算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文学史写作与 90 年代的知识转型 ———以洪子诚的研究为例",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "凹槽铜基底表面与单层石墨烯的相互作用特性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于层间相似性的时序网络节点重要性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "化解“ 信息孤岛” 危机的软件模型按需服务互操作技术",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "大孔径空间外差干涉光谱成像技术多谱段成像仿真",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于局部性原理跳表的内容路由器缓存快速查找机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "个人阅读史、文本考辨与 小说技艺的创化生成 ———以莫言为例证",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "股权让与担保纠纷裁判逻辑的实证研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "国家观念与民族情怀的龃龉 ———陈铨的文学追求及其历史命运",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "国粹主义思潮与晚清 “小说界革命” 之转向",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于局部形状组合模型的人脸对齐",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 1,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "柳青、皇甫村与 20 世纪 80 年代",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "核磁共振量子信息处理研究的新进展",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "我国刑法的新发展",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "当代中国的浮世绘 — ——论叶兆言的“当代生活” 系列",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "用中国特色社会主义法治理论引领法治体系建设",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "耦合双泡声空化特性的理论研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "认罪认罚从宽制度疑难问题研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于信息熵的ＲＳＡ硬件时间隐通道信息泄露量化研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“谣曲” 的发现_ 西班牙内战诗体与 中国新诗的战时转型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "非一致通信时滞动力学网络上的接连滞后同步",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "虚拟财产的刑法属性及其保护路径",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "油膜覆盖的非线性海面电磁散射多普勒谱特性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "责任清单编制规则的法治逻辑",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "BH+ 离子基态及激发态的势能曲线和跃迁性质的研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "利用气泡探测器测量激光快中子",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "地面核磁偏共振响应特征与复包络反演方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于深度学习的推荐系统研究综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "邢、魏之争与应用文在北朝的地位",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "Rashba自旋轨道耦合下square-octagon晶格的拓扑相变",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "密码协议代码执行的安全验证分析综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "单晶铁金属表面污染物的激光烧蚀机理",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "财政权利的逻辑体系及其现实化构造",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "深海海底山环境下声传播水平折射效应研究∗",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "无向图中子集反馈顶点集问题的精确算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "全球治理背景下国际税收秩序的挑战与变革",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "复杂网络上疾病传播溯源算法综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "商标权行使与姓名权保护的冲突与规制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "“裁执一体化” 财产保全的逻辑与改革",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "光线庞加莱球法构建的结构光场及其传输特性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于一维TiO2 纳米管阵列薄膜的β 伏特效应研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "非线性克尔效应对飞秒激光偏振的超快调制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "社交物联网研究综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于行为的大规模云工作流模型库高效检索方法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "陈衍与近代诗学史叙事范式的生成 — ——以《 石遗室诗话》 《 近代诗钞》 及其接受为中心",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "胡适与《小说月报》 的转型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "聂树斌案再审：由来、 问题与意义",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "三维拓扑绝缘体antidot阵列结构中的 磁致输运研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "精神分析视阈中的汪曾祺创作",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "社会化问答网站知识传播网络推断方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "强制预防接种补偿责任的性质与构成",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "基本权利对民事法律行为效力的影响及其限度",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于Ｐｅｔｒｉ网的批量迹与过程模型校准",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "非法持有枪支罪的司法认定",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "颗粒-颗粒接触力的热力学模型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "铟镓锌氧薄膜晶体管的悬浮栅效应研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "重铸新时代中国文论主体精神",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "声场中空化气泡的耦合振动及形状不稳定性的研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "海量不完整数据的核心数据选择问题的研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "云计算中保护数据隐私的快速多关键词语义排序搜索方案",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "进程择优法及在心音深度信任网络中的应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "从 “城乡中国” 到 “城镇中国” — ——新世纪城乡书写的叙事伦理与美学经验",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论中国古代的德法共治",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "柳永 “屯田体” 的特质及其词史意义",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "实行犯的对象错误与教唆犯的归责问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "保存者·开拓者·建设者 ———论郑振铎在文学史上的贡献",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于Ｓｐａｒｋ的并行化组合测试用例集生成方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于纠缠见证的路径纠缠微波检测方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "图像叙事的发生逻辑及语图互文 诗学的运行机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于错误位分布的可逆逻辑综合算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "依法治国语境下检察机关的性质与职权",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种满足差分隐私的轨迹数据发布方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "环境监管中的“ 规范执行偏离效应” 研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于ＰＳＯ 优化的移动位置隐私保护算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 1,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "论鲁迅对 《狂人日记》 的阐释 — ——兼谈 《 呐喊》 的互文性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "跨文化的诗与思_ 吴宓 《欧游杂诗》 探析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "“人格物” 的司法困境与理论突围",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "劳动法上“合理” 的多重意蕴及其应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "系列杀人犯罪侦查分析模型的创建与检验",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "我国网络法治的经验与启示",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "X荧光分析法测定地表灰尘和空调灰中重金属含量",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "环境权的规范效力_可诉性和具体化",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "“绿色原则” 在民法典中的贯彻论纲",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "融合多平台表达数据的转录组差异表达分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于线程池的ＧＰＵ 任务并行计算模式研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "论香港作家杜国威的话剧创作",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "中国文学思想史研究的文体意识",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "重审文学的历史维度 ———兼论文学与历史的关系",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "快速空间测角系统中偏振像差的分析与研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "远程多光束激光相干场成像拍频误差校正研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "商事信用：商法的内在逻辑与体系化根本",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "作为生产的文艺与农民主体的创生 — ——以艾青长诗《吴满有》 为中心",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“ 十七年” 中国科幻小说的外来影响 接受及概念建构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于网络攻击面自适应转换的移动目标防御技术",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "电离层中性气体释放的早期试验效应研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "以宗教为切入点的新世纪 中国古代文学研究 ———基于问题、现象与方法的思考",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种基于自适应监测的云计算系统故障检测方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "亚大气压六相交流电弧等离子体射流特性研究_ 实验测量",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“歪拧” 的乡村自然史 — ——从《 木匠和狗》 看中国现代主义的在地性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "以古代中国与日本为中心的中华法系之律家考",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "紫外域多纵模高光谱分辨率激光雷达探测气溶胶的技术实现和系统仿真",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "两个保密位置判断问题的新解法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "认罪认罚从宽制度的若干争议问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "习近平互联网法治思想研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "汤显祖的制义文写作与早年文学追求",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "新时代发展权救济的法理审思",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "无线网络中基于共享密钥的轻量级匿名认证协议",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "后现代文化与资本帝国的全球统治 — ——奈格里、哈特 《帝国》 解读",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "中国民法学的效率意识",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "从“欲新民” 到打造“ 舆论之母” — ——20 世纪初中国文学批评转型的一个环节",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "氮_硫共掺杂多孔碳纳米片的制备及其电化学性能",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "单晶LaB6 阴极材料典型晶面的电子结构和发射性能研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种基于测量的启发式网络拓扑匹配优化算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "PS3000-b-PAA5000 球形胶束温度效应的原位小角X射线散射技术研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "绝对测温转动拉曼激光雷达分光系统设计及性能",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "双色高频激光作用下原子低阶次谐波的理论研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于动态时间规整的时序数据相似连接",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "描述逻辑!_ 和!_#  表达力的刻画与比较",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于第一性原理分子动力学的填充方钴矿热输运性质及微观过程的研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "《项狄传》 插图与现代图像理念的源起",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向带属性复杂网络的鲁棒、 强解释性社团发现方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "一种宽带可重构反射型极化旋转表面",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "贿赂犯罪的保护法益与事后受财行为的定性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "复杂微通道内气泡在浮力作用下上升行为的格子Boltzmann方法模拟",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于众包的知识库索引对齐算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "二维情况下两组分带电囊泡形变耦合相分离的理论模拟研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文学革命到革命文学的另一种叙述 ———中国青年党视野下的革命与文学",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "针-板空气间隙流注放电起始过程的三维 PIC_MCC仿真研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "论电子媒介时代文论话语转型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "从“ 吹灯” 到“ 放火” — ——重读鲁迅《 长明灯》",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "立法性决定的界定与效力",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“近代的文学研究的精神” — ——莫尔顿《文学的近代研究》 与郑振铎的中国文学研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "环境民事公私益诉讼并行审理的困境与出路",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“看看再说” — —— 《邪不压正》 中的土改难题再解读",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "GaN基薄膜半导体材料不同非线性效应的竞争关系",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "双台风条件下水汽的中尺度输送特征与收支诊断",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种基于信任关系隐含相似度的社会化推荐算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "透过散射介质对直线运动目标的全光成像及追踪技术",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "Hindmarsh-Rose神经元阵列自发产生螺旋波的研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "署名权主体规则的困惑及思考",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "我国个人敏感信息界定之构想",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "高效的集合安全多方计算协议及应用",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 1,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "Ｏ ｐ ｅｎＦｌｏｗ 交换机流表溢出问题的缓解机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种混合的基于分区策略的应用层组播恢复算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "碳纳米管_二硒化钼有机玻璃的非线性吸收、非线性散射和光限幅特性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "境外追逃中的量刑承诺制度研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "法律的“ 交叉” 研究和应用的原理",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "中国法治主体性的文化向度",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "“ 契约+ 非要式+ 任意撤销权” _赠与的理论模式与规范分析 ",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于Ｐｅｔｒｉ网ＢｅｈａｖｉｏｒＩｎｃｌｕｓｉｏｎ的业务流程变化域融合分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "气溶胶对大气CO2 短波红外遥感探测影响的模拟分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "民间借贷诉讼中的证明责任问题",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "共谋共同正犯理论的反思",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于分数阶最大相关熵算法的混沌时间序列预测",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "民法分则侵权责任编立法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "新时代中国法治现代化的战略安排",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "儒家民族观影响下的中国古代民族法制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向二进制程序的空指针解引用错误的检测方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "外包空间数据库中的反向ｋ 最远邻居查询验证技术",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "水下超声速气体射流诱导尾空泡实验研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "权力挂起_行政组织法的新变式_",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "移动终端的多维度隐私泄露评估模型研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "论中国现代文学中的 “身世恨” 书写",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "构建我国行政审判“ 参照” 惯例制度",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "抗磁悬浮振动能量采集器动力学响应的仿真分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "中国与“ 一带一路” 国家税收协定优惠安排与适用争议研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "ＳＣｏＳ：基于Ｓｐａｒｋ的并行谱聚类算法设计与实现",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "利用扩散场信息的超声兰姆波全聚焦成像∗",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向最优时间窗口覆盖的查询服务",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于粒子群优化算法的类集成测试序列确定方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "染料掺杂液晶填充毛细管的激光发射特性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "[Ca24Al28O64]4+ _ 4e− 电子化合物的制备及其电输运特性",
+    "human_count": 0,
+    "ai_count": 3,
+    "paired_count": 0,
+    "status": "skipped"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "二维码扫码支付法律问题解构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向方面业务过程建模的正确性控制与检测",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "在大众阵营与“ 精英集团” 之间 — ——路遥“ 经典化” 的外部考察",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "外场作用下C12H4Cl4O2 的分子结构和电子光谱研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "像散Bessel光束自重建特性的理论和实验研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "准平行光干涉的滤波型多抖动相控方法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "GaAs 量子点1.3 µm单光子发射特性",
+    "human_count": 1,
+    "ai_count": 0,
+    "paired_count": 0,
+    "status": "skipped"
+  },
+  {
+    "register": "humanities",
+    "tittle": "故国与新邦 ———民国初年陈三立诗文中的遗民书写",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“中国文学史的分期问题” 与郑振铎的文学史观 — ——兼论“ 综合的中国文学史” 的体制困境",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "晚清海外诗_ “ 从周边看中国”",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种考虑屏蔽效应的电路输入向量敏感性计算方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向舆情事件的子话题标签生成模型ＥＴ － ＴＡＧ",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于双管道结构的在线加密方案",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "自适应优化的二元分类型硬件木马检测方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "网络社会法律治理与技术治理的二元共治",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向多核向量处理器的矩阵乘法向量化方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“性灵说” 的当代回响 — ——以启功、许白凤为例",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "季札观乐诸问题辩证 ———兼论早期儒家对先秦知识的塑造",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "坚持依规治党",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "一种耦合外部电路的脉冲感应推力器磁流体力学数值仿真模型",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "“ 神威· 太湖之光” 计算机系统大规模应用特征分析与Ｅ级可扩展性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于金刚石色心自旋磁共振效应的微位移测量方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "东南社会与现代文学的“革命地理学”",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "比例原则的普遍化与基本权利的性质",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“ 土” 与“ 狠” 的美学 — ——论贾平凹叙述历史的方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种安全攸关嵌入式系统需求追踪方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "融合形状先验的水平集眼底图像血管分割",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "新时代马克思主义文学批评的现实品格",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "谢卫楼与曹操形象的海外建构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "郑振铎的文学理想与研究实践",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "虚假评论检测研究综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "变声速弹性沉积层下压缩波与剪切波的耦合影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "民法分则合同编立法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "高校校规的法律属性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于事件驱动的ＭａｐＲｅｄｕｃｅ类流量产生方法与 网络评测",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "使用Ｎｅｓｔｅｒｏｖ步长策略投影次梯度方法的个体收敛性",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "路网空间下基于马尔可夫决策过程的 异常车辆轨迹检测算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "双能谷效应对N型掺杂Si基Ge材料载流子晶格散射的影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "稀薄里德伯原子气体中的两体纠缠",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“复” 和“ 杂” 的写作 — ——溥仪《我的前半生》 的成书历程",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "民法分则婚姻家庭编立法研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论全球治理体系中的国内法院",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "简牍所见秦县少吏研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "狂人之诞生 — ——明治时代的 “狂人” 言说与鲁迅的 《狂人日记》",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于波长330 nm激光激发多色激光导星回波光子数的数值计算与探讨",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "习近平文物事业法治思想研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "大数据视阈中的文学地理学研究 ———以《 入蜀记》 《 北行日录》 等行录笔记为中心",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "用于视频内容认证的抗二次压缩水印算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 1,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种基于 ＭＳＩＳＤＮ 虚拟化的移动通信用户数据拟态防御机制",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "我国证券集团诉讼的模式选择与制度重构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "多个子玻色-爱因斯坦凝聚气体膨胀叠加形成的量子涡旋现象研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "敌意收购的法律立场",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论法律的法规创造力",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "《白鹿原》 的身份建构与认同危机",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "格上无匿名性撤销的隐藏的属性签名",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "适用于移动互联网的门限群签名方案",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "唐“ 格律” 考辨",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "基于拉曼激光雷达的大气三相态水同步精细探测分光系统的设计与仿真分析",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "面向管理的克隆代码研究综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "深度神经网络并行化研究综述",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "游戏逻辑_网络文学的认同规则与抵抗策略",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "杜甫与中国诗歌美学的“ 老” 境",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "城管柔性执法_非强制框架下的效益考虑 与路径选择",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "多个字符排序的安全多方计算",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "司法改革试点再认识_与实验研究方法的比较与启示",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "高阶掩码防护的设计实现安全性研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "论反面人物的叙述机制及其当代承传",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "论宪法上的一般人格权及其对民法的影响",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "基于入侵肿瘤生长优化的云计算调度算法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "百年海外华人学者的文学理论与批评",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文学叙事与电影叙事的缝合与裂隙 — ——以《 青春之歌》 电影改编、小说修改为考察中心",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种基于ＬＳ Ｈ 面向二元混合类型数据的 相似性查询方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "何其芳的“ 工作伦理” 与文学转向 — ——以1937 年—1942 年何其芳的经历和写作为中心",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "追求与困顿_ 论贾平凹的乡土书写",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "自动程序修复方法研究述评",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "一种新的访问控制策略描述语言及其权限划分方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“境界” 传统与中国新诗学的建构",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "正态云模型研究回顾与展望",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "黑腔中等离子体相互作用的流体力学现象观测",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“ 世界文学” 不是文学的“ 世界主义”",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "改革开放四十年中国原创话剧的 反思与展望",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "engineering",
+    "tittle": "支持ＳａａＳ应用多维异构性能需求的云资源放置方法",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "百年中国“审美” 概念的历史沿革及其意义",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "避免将行政违法认定为刑事犯罪_ 理念、方法与路径",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "章士钊的“逻辑文” 与 欧化的古文的限度",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "文化心理结构、伦理变迁与乡村政治 ———陈忠实笔下20 世纪中国乡村社会的“ 秘史”",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "新型超导量子比特及量子物理问题的研究",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "humanities",
+    "tittle": "“诗史” 说本义辨",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "social_sci",
+    "tittle": "以买卖合同担保借贷的解释路径与法效果",
+    "human_count": 1,
+    "ai_count": 3,
+    "paired_count": 1,
+    "truncated_human_count": 0,
+    "truncated_ai_count": 0,
+    "status": "paired"
+  },
+  {
+    "register": "science",
+    "tittle": "BaTiO3_La0.67Sr0.33MnO3−δ 复合薄膜的磁致电极化和磁介电特性研究",
+    "human_count": 0,
+    "ai_count": 3,
+    "paired_count": 0,
+    "status": "skipped"
+  },
+  {
+    "register": "science",
+    "tittle": "La0.67Sr0.33MnO3−δ 复合薄膜的磁致电极化和磁介电特性研究",
+    "human_count": 1,
+    "ai_count": 0,
+    "paired_count": 0,
+    "status": "skipped"
+  }
+]

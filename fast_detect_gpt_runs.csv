@@ -1,0 +1,10 @@
+category,subkey,sampling_model_name,scoring_model_name,n,n_neg,accuracy,f1,roc_auc,precision,recall
+,deepseek-v3.2,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,994,497,0.806841,0.808383,0.879571,0.801980,0.814889
+,gemini-3-flash,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,994,497,0.711268,0.737420,0.796311,0.676174,0.810865
+,gpt-5.2,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,994,497,0.868209,0.872195,0.937674,0.846591,0.899396
+,grok-4,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,994,497,0.858149,0.861084,0.933573,0.843629,0.879276
+,qwen,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,994,497,0.851107,0.850202,0.927545,0.855397,0.845070
+,qwen3-14b,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,996,498,0.962851,0.962814,0.994238,0.963783,0.961847
+,qwen3-235b-a22b,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,996,498,0.932731,0.932933,0.984061,0.930140,0.935743
+,qwen3-32b,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,996,498,0.921687,0.922311,0.976113,0.915020,0.929719
+,qwen3-8b,qwen2.5-1.5b,Qwen/Qwen2.5-1.5B-Instruct,996,498,0.978916,0.978766,0.997665,0.985743,0.971888

@@ -15,3 +15,6 @@ __pycache__/
 
 # local / temp runs (取消注释若你希望把 results 也排除)
 tmp_results/
+
+# 若将 --cache_dir 指到仓库内的 cache/ 目录，可忽略本地模型文件
+cache/

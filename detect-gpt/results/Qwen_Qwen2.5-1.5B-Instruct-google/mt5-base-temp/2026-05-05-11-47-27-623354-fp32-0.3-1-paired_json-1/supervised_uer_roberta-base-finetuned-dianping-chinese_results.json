@@ -1,1 +1,0 @@
-{"name": "uer/roberta-base-finetuned-dianping-chinese", "predictions": {"real": [0.8813857436180115], "samples": [0.8813857436180115]}, "info": {"n_samples": 1}, "metrics": {"roc_auc": 0.5, "fpr": [0.0, 1.0], "tpr": [0.0, 1.0]}, "pr_metrics": {"pr_auc": 0.75, "precision": [0.5, 1.0], "recall": [1.0, 0.0]}, "loss": 0.25}

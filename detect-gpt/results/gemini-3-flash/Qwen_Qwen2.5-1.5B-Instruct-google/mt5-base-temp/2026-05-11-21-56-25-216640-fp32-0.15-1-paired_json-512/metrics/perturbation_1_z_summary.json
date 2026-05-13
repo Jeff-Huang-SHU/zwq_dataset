@@ -1,0 +1,22 @@
+{
+  "input": "/home/hjf/A_workspace/detect-gpt/results/gemini-3-flash/Qwen_Qwen2.5-1.5B-Instruct-google/mt5-base-temp/2026-05-11-21-56-25-216640-fp32-0.15-1-paired_json-512/perturbation_1_z_results.json",
+  "n_real": 497,
+  "n_samples": 497,
+  "n_total": 994,
+  "n_pairs": 497,
+  "threshold_mode": "best_f1",
+  "score_flipped": false,
+  "threshold": 0.4973337650299072,
+  "accuracy": 0.5120724346076458,
+  "precision": 0.506198347107438,
+  "recall": 0.9859154929577465,
+  "f1": 0.6689419795221843,
+  "roc_auc": 0.561922844916582,
+  "pr_auc": 0.5451575022133706,
+  "tn": 19,
+  "fp": 478,
+  "fn": 7,
+  "tp": 490,
+  "json_roc_auc": 0.561922844916582,
+  "json_pr_auc": 0.5438002830048196
+}
